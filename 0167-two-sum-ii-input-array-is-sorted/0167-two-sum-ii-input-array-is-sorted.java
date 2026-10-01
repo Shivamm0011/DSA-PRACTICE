@@ -3,7 +3,6 @@ class Solution {
     int i,j;
     i=0;
     j=nums.length -1;
-    Arrays.sort(nums);
     for(; i<j; ){
         int sum = nums[i] + nums[j];
      if (sum==target){
