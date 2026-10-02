@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,5 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
