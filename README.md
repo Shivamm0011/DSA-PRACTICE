@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
