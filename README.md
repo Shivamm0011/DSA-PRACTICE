@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
