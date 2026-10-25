@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [2235-add-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0136-single-number) |
 ## Trie
 |  |
