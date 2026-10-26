@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
