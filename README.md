@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0136-single-number) |
 ## Trie
 |  |
