@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shivamm0011/DSA-PRACTICE/tree/master/2396-strictly-palindromic-number) |
